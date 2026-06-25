@@ -1,0 +1,72 @@
+Goverment of Ontario LogoGovernment of Ontario home page
+Employee Portal
+Return to Search Results
+Job Alerts
+OPS HR information
+×Recommended web browser to access OPS Careers is Microsoft Edge
+Job Specification
+Position Title:Client Services Analyst
+Job Code:17156 - Systems Officer 3
+Job ID:244350
+Purpose of Position:
+To provide service management and incident resolution support, guidance and planning related to Enterprise IT products and services as well as organizational changes and office moves on behalf of The Ministry of Children, Community and Social Services (MCCSS). To provide analysis of situations and incidents, tracking through to resolution; provide oversight of diagnosis and resolution activities with vendors and/or OPS partners. To perform additional troubleshooting of escalated incidents and issues related to IT systems, applications and operations across the province affecting MCCSS. To manage and ensure compliance to defined and agreed upon timelines for the Complex Order Service, ONRequest orders, reducing the impacts to delivery times for MCCSS clients. Review and analysis of security and standards compliance, and reduce impacts to delivery timelines to Ministry clients. Provide or coordinate CYSSC activities in Enterprise Projects by acting as a liaison/ resource between the cluster and other service providers such as ITS and external parties.
+
+Duties / Responsibilities:
+The Position is responsible to:
+1. Support the team in undertaking proactive solutions to address client issues that have been escalated to the team by the client or Cluster management by researching, analyzing and resolving the requests or recommending solutions.
+
+2. Participate in the development of a strategy for addressing the situation, consult with the team lead or the Manager on the ideas to enhance the development and implementation of the strategy as appropriate. Work with the Client Services Coordinator or other senior staff, when required, to develop plans or emergency workaround if immediate solutions cannot be identified or undertaken; and implement solutions where appropriate. Recommend actions that would contribute to the development of "permanent solutions". Liaise with representatives of the stakeholders to keep them informed of developments in reaching a resolution to the situation.
+
+3. Work with other team members or the Manager in supporting the resolution of issues that have been escalated to the Section; contribute technical input as required.
+
+4. Consult with staff in the clients' operations area when required to gather requirements and clarification of business needs in relation to the fulfillment of Complex Order Service/ ONRequest orders. Follow up and consult with ITS or other service providers on fulfillment process, (e.g. software certification).
+
+6. Provide technical support to the other members of the team in dealing with a broad range of client services challenges.
+
+7. As requested by the Manager, perform investigations of complex incidents for impact analysis, problem identification and resolution. As appropriate, search knowledge databases for known errors, problems and resolutions or workarounds in order to provide technical support to the other team members and/or ministry clients. Participate with Team members and the Manager in the development of recommendations for preventative actions or measures to address frequently occurring problems or issues.
+
+8.Other duties: The Manager has the authority to assign additional duties.
+
+Staffing and Licensing:
+N/A
+
+Knowledge:
+Position requires extensive knowledge of OPS Technology Standards and Guidelines, CYSSC best practices and standards, CYSSC/OPS Standards and Controls., and ITIL principles and process standards, to ensure work is consistent with IT plans and goals. Position requires an in-depth understanding of the ministry structure, awareness of the Ministry¿s policies and objectives, and the methods and techniques used in the delivery of programs in order to deliver on the team¿s mandate/responsibilities, and contribute significantly to ensure prompt problem resolution for Ministry operations.
+
+Position requires general knowledge of ITIL (IT Infrastructure Library) which provides a framework of Best Practice guidance for IT service management and incident management. Position requires knowledge of the Cluster's platforms, applications, and technologies including hardware devices, operating systems, sub-systems, databases and network services infrastructure in order to participate with the Team in developing comprehensive proposals for the Ministry, and to participate with Team members in the development and implementation of Action Plans for solutions and subsequent recommendations. Position requires knowledge of the business systems used in the client's operations for the delivery of its programs in a provincial setting in order to develop workable proposals.
+
+
+Skills:
+Position requires strong communication skills and interpersonal abilities to communicate across all organizational levels, technical/non-technical staff and field personnel; skills to provide technical services and support in facilitating prompt problem resolution for Ministry-supported systems applications and operations. Position requires logical, evaluative and problem solving skills to develop technical solutions to address various technical issues. Position requires technical and analytical skills to undertake technical problem-solving activities such as assessing user or operating errors; diagnosing source/cause (hardware failure/software problem/user error); resolving problems by arranging for external contractors to provide emergency repairs to equipment; making changes to operating system set-up, providing instruction and assistance to users and making changes to local application software or hardware. Position requires evaluative and problem-solving skills to contribute to the Team in developing solutions/recommendations to the immediate problems and, where appropriate, to longer term solutions. Position requires analytical and problem-solving skills to assess problems, analyze IT requirements, formulate test scenarios, develop appropriate solutions for implementation and conduct post implementation reviews for compliance with performance standards. Position requires time management and organization skills, and the ability to work well under pressure and meet deadlines in order to efficiently complete assignments on time. Position requires good oral communication skills to explain issues and technical solutions involving application software, systems and equipment that the clients can understand, appropriate to their skill levels. Position requires good written communication skills to: prepare and maintain documentation and reports on actions taken; prepare emergency operating and remedial procedures as well as end-user instructions. Position requires strong planning and organizational skills to address workload priorities and to independently handle problems and assigned work.
+
+
+
+Freedom of Action:
+Under the general supervision of the Manager, the Position works within Ministry directives, guidelines and policies and within the OPS Technology standards and guidelines and Cluster best practices. Judgement is required in working within OPS/Ministry standards, policies, guidelines and directives for development, acquisition and use of information technology, and within established methods, practices and procedures related to computer systems.
+Position requires making decisions, as a team member, in working with the Cluster operational staff and/or staff from client organizations, in order to carry out emergency technical operations and recommending actions to, for example, restore service and protect the performance of a client's system. Judgement is required in assisting the Team and the Manager in the implementation of the technical solutions and recommendations.
+Position exercises latitude in decision-making when taking prompt and effective action to participate with the Team in endeavouring to restore service for the client organization, which may involve the searching of knowledge bases and the use of other tools to determine and recommend appropriate actions to management to restore service.
+
+Judgement is required in participating in and developing recommendations for longer-term solutions. The Manager regularly reviews the Position's completed work for timeliness in responding to urgent queries/situations with workable solutions, and the quality of customer service provided to the parties. The Position refers to the Manager or to the more senior team members, any significant problems, or disagreements with clients, for guidance and resolution, as well as any conflicts between client requirements and Ministry/Cluster information technology requirements.
+
+
+
+
+View Job Ad
+Print this page
+Print
+
+Return to Search
+ 
+
+ 
+
+ 
+
+CAREERS HOME | HOME | CONTACT US | LINKS | InsideOPS
+Ontario Logo
+This site is maintained by the Government of Ontario
+
+Privacy | Terms of Use
+© Queen's Printer for Ontario, 2006
+Last Modified: 10/17/2025 2:34:00 PM
+
